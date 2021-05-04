@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I love to explore the world
 - 💬 Ask me about anything
 
+<br />
 
 ### Connect with me:
 
@@ -16,7 +17,6 @@
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mr_faysal_ahamed/)
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/15553156/faysal-ahamed)
 
-<br />
 
 ### Languages and Tools:
 
@@ -37,7 +37,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-<br />
 <br />
 <br />
 
