@@ -1,4 +1,4 @@
-# Hi 👋, I'm [faysal-ahamed](https://faysal-ahamed.netlify.app/)
+# Hi 👋, I'm [Faysal-Ahamed](https://faysal-ahamed.netlify.app/)
 ## I'm a 😍😍 React.js Lover 😍😍!
 
 
