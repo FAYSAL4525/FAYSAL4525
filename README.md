@@ -8,7 +8,6 @@
 - ⚡ Fun fact: I love to explore the world
 - 💬 Ask me about anything
 
-<br/>
 
 ### Connect with me:
 
