@@ -1,10 +1,11 @@
-### Hi there, I'm - [faysal-ahamed](https://faysal-ahamed.netlify.app/) 👋
-## I'm a 😍😍 JavaScript Lover 😍😍!
+<h1>Hi 👋, I'm [faysal-ahamed](https://faysal-ahamed.netlify.app/)</h1>
+## I'm a 😍😍 React.js Lover 😍😍!
+
 
 - 🔭 I’m currently working on junior full stack web development
-- 🌱 I’m currently learning full stack web development
+- 🌱 I’m currently learning Gatsby.js
 - 👯 I’m looking to collaborate with other open source project
-- 🥅 2021 Goals: React, Node, Mongo, Next.js, Express.js
+- 🥅 2021 Goals:React Native, Next.js, Express.js
 - ⚡ Fun fact: I love to explore the world
 - 💬 Ask me about anything
 
@@ -46,10 +47,9 @@
 
 <br />
 <br />
-<img width="550px" alt="Faysal Ahamed Github Stats"  src="https://github-readme-stats.vercel.app/api?username=faysal4525&show_icons=true"/>
+<img width="550px" alt="Faysal Ahamed Github Stats"  src="https://github-readme-stats.vercel.app/api?username=faysal4525&show_icons=true&theme=blueberry"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=faysal4525&card_width=550)](https://github.com/FAYSAL4525/FAYSAL4525)
-
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=faysal4525&card_width=550&theme=blueberry)](https://github.com/FAYSAL4525/FAYSAL4525)
 
 [programming]: https://www.programming-hero.com/
 [website]: https://faysal-ahamed.netlify.app/
