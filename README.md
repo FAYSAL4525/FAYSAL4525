@@ -20,7 +20,6 @@
 
 ### [My Resume](https://drive.google.com/file/d/1TxCRn51socEcAyMZ6mE4J2CDF6bi1aTy/view?usp=sharing)
 
-<br />
 
 ### Languages and Tools:
 
